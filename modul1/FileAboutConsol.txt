@@ -1,9 +1,9 @@
-pwd 	- print working directory   Ч 	надрукувати робочий каталог
-cd  	- change directory 		- 	зм≥нити каталог
-ls  	- list			-	надрукувати данн≥ каталогу
-mv  	- move			-	дл€ перемещени€ или переименовани€ файлов
-rm  	- remove			-	используема€ дл€ удалени€ файлов
-rm -rf				-	используема€ дл€ удалени€ папок
-mkdir 	- make dir		-	используема€ дл€ создани€ папок
-touch				-	используема€ дл€ удалени€ файлов
-man	- manual 		Ч 	руководство
+pwd 	Ч 	print working directory
+cd  	- 	change directory
+ls  	- 	print directory information
+mv  	-	to move and rename files
+rm  	-	to remove files
+rm -rf	-	to remove package
+mkdir 	-	make dir
+touch	- 	make file
+man	- 	manual
